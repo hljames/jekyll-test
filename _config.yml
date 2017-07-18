@@ -1,0 +1,15 @@
+exclude:
+  - "docker-compose.yml"
+  - "Dockerfile"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "Makefile"
+  - "README.md"
+  - "TODO.md"
+gems:
+  - jekyll-optional-front-matter
+  - jekyll-redirect-from
+host: 0.0.0.0
+port: 8080
+theme: jekyll-theme-manual50
+plugins_dir: [cs50-lecture]
