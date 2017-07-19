@@ -1,9 +1,3 @@
-# References
+# Explanation
 
-- https://github.com/vmg/redcarpet/blob/v3.2.2/README.markdown#and-its-like-really-simple-to-use
-- https://jekyllrb.com/docs/quickstart/
-- https://afeld.github.io/bootstrap-toc/
-
-# TODO
-
-- Decide how to mount `/srv/www` without shadowing `/srv/www/public`.
+This is an example test website of manual50 using jekyll-theme-manual50. It references the theme in the config file, as well as in the Gemfile. The theme doesn't include the lecture plugin, which is included via the \_plugins directory. 
