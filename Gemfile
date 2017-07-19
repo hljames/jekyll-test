@@ -1,5 +1,3 @@
 source "https://rubygems.org"
-
-gem "manual50"
-gem "cs50-lecture"
-gem "jekyll-lecture-plugin"
+gemspec
+gem 'jekyll-theme-manual50', '~> 0.0.4'

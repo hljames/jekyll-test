@@ -8,4 +8,4 @@ exclude:
   - "TODO.md"
 host: 0.0.0.0
 port: 8080
-theme: manual50
+theme: jekyll-theme-manual50
